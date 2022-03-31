@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isarmouk794
-- 👀 I’m interested in software engineering and bioinformatics
-- 🌱 I’m currently learning web dev
+- 👀 I’m interested in 
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
